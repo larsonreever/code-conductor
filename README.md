@@ -112,14 +112,7 @@ gh issue create --label "conductor:task" --title "Add dark mode toggle"
 - [Troubleshooting](docs/TROUBLESHOOTING.md) - Common issues and solutions
 
 🚀 **[Power User Prompts](CLAUDE_CODE_PROMPT.md)** - Game-changing automation with Claude Code
-
-## Community
-
-- 🐛 **Found a bug?** [Report it](https://github.com/ryanmac/code-conductor/issues)
-- 💡 **Have an idea?** [Start a discussion](https://github.com/ryanmac/code-conductor/discussions)
-- 🛠️ **Want to contribute?** [See our guide](.github/CONTRIBUTING.md)
-- 𝕏 **Share your success** Mention [@ryanmac](https://x.com/ryanmac) with #CodeConductor
-
+ 
 ---
 
 **Stop juggling tasks. Start shipping features.** 🎼
