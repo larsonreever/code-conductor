@@ -2,7 +2,7 @@
 
 <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/be1b47d2-8384-4012-b437-4d8316eaf9f7" />
 
-**Orchestrate multiple AI coding agents. Ship 10x faster.**
+**Orchestrate multiple AI coding agents. Ship 10x faster. https://codeconductor.ai/ **
 
 ## The Problem
 
